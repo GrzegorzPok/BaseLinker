@@ -1,0 +1,10 @@
+C:\Users\48669\source\repos\BaseLinker\BaseLinker\obj\Debug\BaseLinker.csprojAssemblyReference.cache
+C:\Users\48669\source\repos\BaseLinker\BaseLinker\obj\Debug\BaseLinker.csproj.CoreCompileInputs.cache
+C:\Users\48669\source\repos\BaseLinker\BaseLinker\bin\Debug\BaseLinker.exe.config
+C:\Users\48669\source\repos\BaseLinker\BaseLinker\bin\Debug\BaseLinker.exe
+C:\Users\48669\source\repos\BaseLinker\BaseLinker\bin\Debug\BaseLinker.pdb
+C:\Users\48669\source\repos\BaseLinker\BaseLinker\obj\Debug\BaseLinker.exe
+C:\Users\48669\source\repos\BaseLinker\BaseLinker\obj\Debug\BaseLinker.pdb
+C:\Users\48669\source\repos\BaseLinker\BaseLinker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\48669\source\repos\BaseLinker\BaseLinker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\48669\source\repos\BaseLinker\BaseLinker\obj\Debug\BaseLinker.csproj.CopyComplete
